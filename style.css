@@ -48,6 +48,11 @@ body {
   align-items: center;
   gap: 0.6rem;
 }
+.logo-image {
+  height: 52px;      /* adjust if you want it bigger/smaller */
+  width: auto;
+  display: block;
+}
 
 .logo-mark {
   background: linear-gradient(135deg, #E53935, #B71C1C);
